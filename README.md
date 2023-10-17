@@ -6,6 +6,6 @@ I decided to use the library [styled-components](https://styled-components.com/)
 
 > _J'ai décidé d'utiliser la bibliothèque [styled-components](https://styled-components.com/). J'ai choisi cette solution parce que, selon l'enquête de la state of CSS, c'était la solution la plus populaire utilisée en 2019, 2020 et 2021. Je suppose que c'est toujours le cas en ce moment._
 
-## GitHub pages Link of the result / Lien GitHub pages du résultat
+<!-- ## GitHub pages Link of the result / Lien GitHub pages du résultat
 
-[https://ange230700.github.io/cssInReactTheNextLevel](https://ange230700.github.io/cssInReactTheNextLevel)
+[https://ange230700.github.io/cssInReactTheNextLevel](https://ange230700.github.io/cssInReactTheNextLevel) -->

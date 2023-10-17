@@ -6,6 +6,7 @@ const CardWrapper = styling.div`
   flex-direction: column;
   border-radius: 2rem;
   background-color: #fff;
+  margin: 2rem;
 `;
 
 const ImageContainer = styling.div`
