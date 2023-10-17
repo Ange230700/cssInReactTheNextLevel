@@ -8,4 +8,4 @@ I decided to use the library [styled-components](https://styled-components.com/)
 
 ## GitHub pages Link of the result / Lien GitHub pages du résultat
 
-[https://Ange230700.github.io/cssInReactTheNextLevel](https://Ange230700.github.io/cssInReactTheNextLevel)
+[https://ange230700.github.io/cssInReactTheNextLevel](https://ange230700.github.io/cssInReactTheNextLevel)
